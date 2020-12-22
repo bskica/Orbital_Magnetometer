@@ -22,5 +22,5 @@ def sinfit(tt, yy):
 
 
 '''
-   Parameter-free fitting function. Uses an fft to obtain 
+   Parameter-free fitting function. Uses an fft to obtain an initial guess, refines fit via scippy's linear algebra fitting tool
 '''
